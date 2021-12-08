@@ -1,4 +1,4 @@
-# week2class
+# week2class Work
 # Practice on Calculator
 #### Calculator Business Logic, 8th Dec,2021
 #### By **Martin Sakwa**
